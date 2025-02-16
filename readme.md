@@ -1,4 +1,4 @@
-﻿# TC-Baldr's Levelling List
+﻿# Torn Warring Lists
 
 A modified version of https://oran.pw/baldrstargets to support faction wars.
 
