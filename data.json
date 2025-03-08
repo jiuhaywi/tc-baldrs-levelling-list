@@ -283,11 +283,11 @@
       "dex": "0"
     }
   ],
-  "temp (20.2.25)": [
+  "Also Impulse (8.3.25)": [
     {
-      "name": "Rickybobby87",
-      "id": "2878523",
-      "lvl": "16",
+      "name": "Shandurai",
+      "id": "25719",
+      "lvl": "100",
       "total": "0",
       "str": "0",
       "def": "0",
@@ -295,9 +295,9 @@
       "dex": "0"
     },
     {
-      "name": "Epac1",
-      "id": "3218943",
-      "lvl": "15",
+      "name": "Andy_P",
+      "id": "2531705",
+      "lvl": "97",
       "total": "0",
       "str": "0",
       "def": "0",
@@ -305,9 +305,9 @@
       "dex": "0"
     },
     {
-      "name": "jaypaxs",
-      "id": "3438991",
-      "lvl": "12",
+      "name": "hedgehogger",
+      "id": "2081636",
+      "lvl": "96",
       "total": "0",
       "str": "0",
       "def": "0",
@@ -315,9 +315,859 @@
       "dex": "0"
     },
     {
-      "name": "br1m1k3",
-      "id": "3316696",
-      "lvl": "12",
+      "name": "Skinny_Puppy",
+      "id": "2075125",
+      "lvl": "93",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "marko75",
+      "id": "2548165",
+      "lvl": "93",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Xoke",
+      "id": "2108583",
+      "lvl": "87",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "CodeNameGarbo",
+      "id": "1930872",
+      "lvl": "83",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "DartBoard9",
+      "id": "2569884",
+      "lvl": "83",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Viki_CZ",
+      "id": "1957592",
+      "lvl": "77",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "beardly",
+      "id": "2599954",
+      "lvl": "74",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "dr_D_rock",
+      "id": "2647689",
+      "lvl": "74",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Joeysov",
+      "id": "2532309",
+      "lvl": "72",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Zorgo",
+      "id": "2413824",
+      "lvl": "69",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Natrose88",
+      "id": "2137326",
+      "lvl": "66",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "CaptGalaxy",
+      "id": "1587906",
+      "lvl": "65",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Slayer21",
+      "id": "2572654",
+      "lvl": "65",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Keegsten",
+      "id": "2106424",
+      "lvl": "64",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Dixie_Flatline",
+      "id": "2841349",
+      "lvl": "62",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Derping",
+      "id": "2225849",
+      "lvl": "60",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Spade_Knight",
+      "id": "2402240",
+      "lvl": "60",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "darkxlayer",
+      "id": "2112133",
+      "lvl": "59",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "RealJolimoli",
+      "id": "2768239",
+      "lvl": "59",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Leon_Cyrus",
+      "id": "1977480",
+      "lvl": "55",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Dealla",
+      "id": "2272827",
+      "lvl": "54",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "jerecools",
+      "id": "1843631",
+      "lvl": "53",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "pauljnelson",
+      "id": "1882817",
+      "lvl": "50",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Uxie",
+      "id": "2090396",
+      "lvl": "50",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "KShinobi",
+      "id": "2225657",
+      "lvl": "50",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Ub3rskurk",
+      "id": "2548328",
+      "lvl": "50",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Z1RK3",
+      "id": "2428612",
+      "lvl": "49",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Alexaz",
+      "id": "2227669",
+      "lvl": "47",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "xDream787",
+      "id": "2630341",
+      "lvl": "47",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Resatos",
+      "id": "2815912",
+      "lvl": "47",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Pengypoo",
+      "id": "2766364",
+      "lvl": "46",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Skipperwife",
+      "id": "3136708",
+      "lvl": "46",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "51Fifty",
+      "id": "2343526",
+      "lvl": "45",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Neon_Panda",
+      "id": "2511806",
+      "lvl": "43",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "meltykiss",
+      "id": "3363024",
+      "lvl": "41",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "THAT1DUDE",
+      "id": "3369592",
+      "lvl": "41",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Seegogga",
+      "id": "2712342",
+      "lvl": "41",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Magdahlia",
+      "id": "3087466",
+      "lvl": "40",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "PERK_Ryan",
+      "id": "3356606",
+      "lvl": "40",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Pastolio",
+      "id": "3345788",
+      "lvl": "37",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "BaronMoneyMagus",
+      "id": "2582454",
+      "lvl": "36",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Gusher",
+      "id": "2748191",
+      "lvl": "36",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "CozyHypnotist",
+      "id": "2776035",
+      "lvl": "36",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Estell",
+      "id": "3034954",
+      "lvl": "35",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Portugaltheman",
+      "id": "3351989",
+      "lvl": "35",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "TheLizard",
+      "id": "3364187",
+      "lvl": "35",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Yubz56",
+      "id": "3373305",
+      "lvl": "33",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "Knight_666",
+      "id": "2574344",
+      "lvl": "32",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "StardewStunner",
+      "id": "3410347",
+      "lvl": "32",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "FogFrog",
+      "id": "3325949",
+      "lvl": "30",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "McNougat",
+      "id": "3337053",
+      "lvl": "29",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
+      "total": "0",
+      "str": "0",
+      "def": "0",
+      "spd": "0",
+      "dex": "0"
+    },
+    {
+      "name": "",
+      "id": "",
+      "lvl": "",
       "total": "0",
       "str": "0",
       "def": "0",
